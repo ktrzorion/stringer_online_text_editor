@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stringer_online_text_editor/static/css/main.fc7e7a50.css",
+    "main.js": "/stringer_online_text_editor/static/js/main.0f0cb78c.js",
+    "static/js/787.461679bb.chunk.js": "/stringer_online_text_editor/static/js/787.461679bb.chunk.js",
+    "index.html": "/stringer_online_text_editor/index.html",
+    "main.fc7e7a50.css.map": "/stringer_online_text_editor/static/css/main.fc7e7a50.css.map",
+    "main.0f0cb78c.js.map": "/stringer_online_text_editor/static/js/main.0f0cb78c.js.map",
+    "787.461679bb.chunk.js.map": "/stringer_online_text_editor/static/js/787.461679bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc7e7a50.css",
+    "static/js/main.0f0cb78c.js"
+  ]
+}
